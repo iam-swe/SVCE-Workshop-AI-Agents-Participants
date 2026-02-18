@@ -20,8 +20,8 @@ python --version
 
 ### 📦 1. Clone the Repository
 ```
-git clone https://github.com/iam-swe/SVCE-Workshop-AI-Agents.git
-cd SVCE-Workshop-AI-Agents
+git clone https://github.com/iam-swe/SVCE-Workshop-AI-Agents-Participants.git
+cd SVCE-Workshop-AI-Agents-Participants
 ```
 
 ### 🚀 2. Install uv (Fast Python package manager)
@@ -126,7 +126,7 @@ copy .env.example .env
 Fill in the following in the .env file:
 
 ```
-GEMINI_API_KEY=your_google_ai_studio_key
+GOOGLE_API_KEY=your_google_ai_studio_key
 FIRECRAWL_API_KEY=your_firecrawl_key
 ```
 
